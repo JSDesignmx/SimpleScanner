@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Scanner</string>
+    <string name="escanear">Escanear</string>
+    <string name="x">X</string>
+    <string name="no_camera_access">Sin acceso a la camara</string>
+    <string name="allow_camera">Por favor permite el acceso a la camara para poder escanear los codigos</string>
+    <string name="allow_permission">Conceder Permiso</string>
+    <string name="cancel">Cancelar</string>
+</resources>
