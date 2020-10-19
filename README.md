@@ -1,0 +1,2 @@
+# SimpleScanner
+SimpleScanner demo app
